@@ -5,6 +5,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.5]
+- Completions for predefined attributes.
+- Snippets for various process statements ([@jethro33](https://github.com/jethro33))
+
 ## [v0.0.4]
 - Completions for standard library packages.
 
